@@ -10,9 +10,7 @@ bool outEnabled(){
 Tones sound(outEnabled);
 
 #define BUTTON_DELAY 200
-
-byte circlePos = 7;
-
+ 
 #define NDUR 100
 
 const uint16_t sound1[] PROGMEM = {
